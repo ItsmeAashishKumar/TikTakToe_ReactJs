@@ -1,0 +1,32 @@
+.BlockMark0{
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-size: cover;
+    gap: 1rem;
+    display: inline-block;
+    background-color: white;
+    border-radius: 2rem;
+}
+
+.BlockMark2 {
+    background-image: url("C:\Users\kaach\Desktop\frontent-developer\reactjs\TikTakTow\src\assets\circle.png");
+    width: 150px;
+    border-radius: 2rem;
+    height: 150px;
+    border: 5px solid black;
+    background-size: cover;
+    gap: 1rem;
+    display: inline-block;
+}
+
+.BlockMark1 {
+    background-image: url("C:/Users/kaach/Desktop/frontent-developer/reactjs/TikTakTow/src/assets/cross.png");
+    width: 150px;
+    gap: 1rem;
+    border-radius: 2rem;
+    height: 150px;
+    border: 5px solid black;
+    background-size: cover;
+    display: inline-block;
+}
